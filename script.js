@@ -1,3 +1,3 @@
-function botaoApertado() {
+function botaoPressionado() {
     alert('Hello World');
 }
