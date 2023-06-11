@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(52, 128, 52);
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: rgb(232, 89, 113);
+}
+
+.h2-texto-1 {
+    color: rgb(46, 52, 164);
+}
+
+.h2-texto-2 {
+    color: rgb(207, 42, 185);
+}
+
+.botaoteste {
+    background-color: brown;
+}
+
+.foto {
+    border: 5px black solid;
+    border-radius: 5px;
+}
